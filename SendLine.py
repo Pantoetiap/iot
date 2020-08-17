@@ -2,7 +2,7 @@
 import upip
 upip.install('urequests')
 '''
-import lib.urequests
+import urequests
 def sendline(sms):
   
   token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'  ## Change to Your Token
